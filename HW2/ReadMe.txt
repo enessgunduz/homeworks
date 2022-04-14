@@ -1,0 +1,1 @@
+In this homework, we made simple programs like calculating taxes, finding day of week exc.  

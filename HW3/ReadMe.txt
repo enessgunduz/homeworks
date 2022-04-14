@@ -1,0 +1,1 @@
+In here, we made a program that takes some coordinates from user and prints the shape in console, that was kind of funny. 

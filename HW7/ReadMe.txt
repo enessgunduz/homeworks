@@ -1,0 +1,1 @@
+In this homework, we made a smart house system by using Interfaces, Abstract Classes exc. 

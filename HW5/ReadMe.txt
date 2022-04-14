@@ -1,0 +1,1 @@
+In that homework, we created a factory simulator program with object-oriented approach

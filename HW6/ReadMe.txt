@@ -1,0 +1,1 @@
+In this homework, we made a company system that includes some useful functionalities. That was first homework we used object oriented programming stuffs. 
