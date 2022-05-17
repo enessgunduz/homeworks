@@ -1,0 +1,1 @@
+In this homework, we made simple programs like calculating ears of bunnies, printing triangles exc. for practicing the basics of C language.  
